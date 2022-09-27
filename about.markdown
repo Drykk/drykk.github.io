@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Name is Tom or Drykk depending if we met online or in person first. I am currently a Security Engineer by trade and work in the PNW. I have a kiddo in school and loving being a dad. I used to stream games on a website that was called Mixer before Microsoft did their thing to it and sold off the peices. Now I just am snarky on the internet via social media and play videogames for fun. I am learning to blacksmith and hope to post and do more with that soon.
