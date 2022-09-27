@@ -21,16 +21,16 @@
 title: Tom | Drykk
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Where nerdy meets metal.
-  Security Engineer by trade.
-  Opinions expressed are wholly my own.
+  Security Engineer by trade and Inspiring Blacksmith in training.
+  Welcome to where Nerdy meets Metal and everything inbetween.
+  The opinions expressed on this website are wholly my own.
   (he/him)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "drykk.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: idrykk
 github_username:  drykk
 instagram_username: idrykk
-facebook_username: drykk
+#facebook_username: drykk
 
 # Build settings
 theme: minima
