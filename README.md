@@ -1,2 +1,2 @@
-# drykk.github.io-
+# drykk.github.io
 My little section of the web
