@@ -31,6 +31,10 @@ twitter_username: idrykk
 github_username:  drykk
 instagram_username: idrykk
 #facebook_username: drykk
+#Mastodon
+mastodon:
+ - username: drykk
+   instance: mastodon.online
 
 # Build settings
 theme: minima
